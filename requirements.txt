@@ -3,3 +3,4 @@ bcrypt
 requests
 Pillow
 python-dotenv
+streamlit-geolocation==0.1.0
